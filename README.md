@@ -1,1 +1,1 @@
-## Repositório de desenvolvimento em finanças quantitativas da Orion Robust Trading
+## Orion Trading public repo for local tests.
